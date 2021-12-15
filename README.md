@@ -21,7 +21,7 @@ class Characteristic extends abrahamparn{
 }
 
 class Skills extends abrahamparn {
-  Code         = ['JavaScript', 'Python', 'HTML', 'Kotlin', 'Javascript'];
+  Code         = ['JavaScript', 'Python', 'HTML', 'CSS', 'Kotlin', 'Javascript'];
   Softs        = ['Sleeping'];
 }
 ```
