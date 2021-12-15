@@ -3,10 +3,28 @@
 <!-- Credit to: https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=Information+Technology+Student;Front+End+Enthusiast;Machine+Learning+Enthusiast;Android+Programming+Enthusaist;I've+got+a+crush+on+her)](https://git.io/typing-svg)
 
-- 📖 I’m currently studying at President University
-- 🌱 I’m currently learning android programming
-- 💬 Ask me about machine learning
-- ⚡ Fun fact: I am just your another porfessional normal human.
+```js
+import abrahamparn from earth;
+
+class Identifier extends abrahamparn {
+  name         = 'Abraham Naiborhu';
+  title        = 'Student';
+  institution  = 'President Univeristy';
+  location     = 'Jakarta';
+}
+
+class Characteristic extends abrahamparn{
+  hobby        = ['Sleeping', 'Sports'];
+  interest     = ['Front-End', 'Android Programming', 'Machine Learning', 'Sleeping', 'Her'];
+  love         = ['Rock', 'Balada', 'Jazz'];
+  language     = ['Indonesia', 'English'];
+}
+
+class Skills extends abrahamparn {
+  Code         = ['JavaScript', 'Python', 'HTML', 'Kotlin', 'Javascript'];
+  Softs        = ['Sleeping'];
+}
+```
 
 ### Github Statistic
 <p align="left">
@@ -15,6 +33,9 @@
   <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abrahamparn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Profile Views
+<img src="https://profile-counter.glitch.me/abrahamparn/count.svg">
 
 ### Let's Connect!
 <p align = "center">
