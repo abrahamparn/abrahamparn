@@ -37,10 +37,11 @@ class Skills extends abrahamparn {
 ### Profile Views
 <img src="https://profile-counter.glitch.me/abrahamparn/count.svg">
 
-### Languages
+### Techs
 <img align="left" alt="Kotlin" title="Kotlin" src="https://img.icons8.com/color/50/000000/kotlin.png">
 <img align="left" alt="JavaScript" title="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png">
 <img align="left" alt="Python" title="Python" src="https://img.icons8.com/color/50/000000/python--v1.png">
+<img align="left" alt="Android Studio" title="Android Studio" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
 <br>
 <br>
 
