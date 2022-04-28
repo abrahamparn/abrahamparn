@@ -13,7 +13,7 @@ class Identifier{
 
 class Characteristic{
   hobby        = ['Sleeping', 'Sports'];
-  interest     = ['Front-End', 'Android Programming', 'Machine Learning', 'Sleeping', 'Her'];
+  interest     = ['Front-End', 'Android Programming', 'Machine Learning'];
   love         = ['Rock', 'Balada', 'Jazz'];
   language     = ['Indonesia', 'English'];
 }
