@@ -1,27 +1,10 @@
 <h1 align="center">Hi, I'm Abraham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <!-- Credit to: https://readme-typing-svg.herokuapp.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=Information+Technology+Student;Front+End+Enthusiast;Machine+Learning+Enthusiast;Android+Programming+Enthusaist;I've+got+a+crush+on+her)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=Information+Technology+Student;Front+End+Enthusiast;Machine+Learning+Enthusiast;Android+Programming+Enthusaist)](https://git.io/typing-svg)
 
 ```js
-class Identifier{
-  name         = 'Abraham Naiborhu';
-  title        = 'Student';
-  institution  = 'President Univeristy';
-  location     = 'Jakarta';
-}
-
-class Characteristic{
-  hobby        = ['Sleeping', 'Sports'];
-  interest     = ['Front-End', 'Android Programming', 'Machine Learning'];
-  love         = ['Rock', 'Balada', 'Jazz'];
-  language     = ['Indonesia', 'English'];
-}
-
-class Skills{
-  Code         = ['JavaScript', 'Python', 'HTML', 'CSS', 'Kotlin', 'Javascript'];
-  Softs        = ['Leadership'], ['People Skill'], ['Critical Thinking'];
-}
+console.log("I code")
 ```
 
 ### Github Statistic
