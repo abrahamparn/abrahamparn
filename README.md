@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abraham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <!-- Credit to: https://readme-typing-svg.herokuapp.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=Information+Technology+Student;Front+End+Enthusiast;Machine+Learning+Enthusiast;Android+Programming+Enthusaist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=Information+Technology+Student;Fullstack;Machine+Learning;Android;)](https://git.io/typing-svg)
 
 ```js
 console.log("I code")
