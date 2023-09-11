@@ -23,8 +23,8 @@ console.log("I code")
 <img align="left" alt="JavaScript" title="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png">
 <img align="left" alt="Python" title="Python" src="https://img.icons8.com/color/50/000000/python--v1.png">
 <img align="left" alt="Android Studio" title="Android Studio" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
-<img align="left" alt="C Sharp" title="C Sharp" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
-<img align="left" alt="React" title="React" src="https://img.icons8.com/bubbles/50/000000/react.png/>
+<img align="left" alt="ASP.NET MVC" title="ASP.NET MVC" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/96/external-Dot-Net-social-media-those-icons-lineal-color-those-icons.png"/>
+<img align="left" alt="React" title="React" src="https://img.icons8.com/bubbles/50/000000/react.png"/>
 <br>
 <br>
 
