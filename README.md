@@ -21,10 +21,10 @@ console.log("I code")
 ### Techs
 <img align="left" alt="Kotlin" title="Kotlin" src="https://img.icons8.com/color/50/000000/kotlin.png">
 <img align="left" alt="Python" title="Python" src="https://img.icons8.com/color/50/000000/python--v1.png">
-<img align="left" alt="ASP.NET MVC" title="ASP.NET MVC" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/96/000000/external-Dot-Net-social-media-those-icons-lineal-color-those-icons.png"/>
+<img align="left" alt="ASP.NET MVC" title="ASP.NET MVC" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/50/000000/external-Dot-Net-social-media-those-icons-lineal-color-those-icons.png"/>
 <img align="left" alt="React" title="React" src="https://img.icons8.com/bubbles/50/000000/react.png"/>
-<img align="left" alt="Machine Learning" title="Machine Learning" src="https://img.icons8.com/stickers/100/000000/machine-learning.png"/>
-<img align="left" alt="Node.JS" title="Node.JS" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+<img align="left" alt="Machine Learning" title="Machine Learning" src="https://img.icons8.com/stickers/50/000000/machine-learning.png"/>
+<img align="left" alt="Node.JS" title="Node.JS" src="https://img.icons8.com/fluency/50/000000/node-js.png"/>
 
 <br>
 <br>
