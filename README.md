@@ -7,14 +7,6 @@
 console.log("I code")
 ```
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/abrahamparn">
-  <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abrahamparn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abrahamparn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### Profile Views
 <img src="https://profile-counter.glitch.me/abrahamparn/count.svg">
 
