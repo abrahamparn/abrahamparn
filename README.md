@@ -5,6 +5,7 @@
 
 ```js
 console.log("I code")
+log.debug("I code")
 ```
 
 ### Profile Views
