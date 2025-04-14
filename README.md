@@ -8,10 +8,21 @@ console.log("I code")
 log.debug("I code")
 ```
 
-### Profile Views
-<img src="https://profile-counter.glitch.me/abrahamparn/count.svg">
+## 📚 My Developer Journey
+I’ve been building and learning through hands-on projects — combining frontend, backend, and cross-platform technologies.
+Check out my comprehensive journey and portfolio here:
 
-### Techs
+🔗 [🌐 Web Development Journey Repository](https://github.com/abrahamparn/WEB-DEVELOPMENT-JOURNEY)
+
+> Features full-stack web apps, React/Tailwind projects, Electron desktop apps, testing, express.js with posgres and mongodb and progressive web apps.
+
+<br>
+
+## Profile Views
+<img src="https://profile-counter.glitch.me/abrahamparn/count.svg">
+<br>
+
+## Techs
 <img align="left" alt="Kotlin" title="Kotlin" src="https://img.icons8.com/color/50/000000/kotlin.png">
 <img align="left" alt="Python" title="Python" src="https://img.icons8.com/color/50/000000/python--v1.png">
 <img align="left" alt="ASP.NET MVC" title="ASP.NET MVC" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/50/external-Dot-Net-social-media-those-icons-lineal-color-those-icons.png"/>
@@ -21,8 +32,9 @@ log.debug("I code")
 
 <br>
 <br>
+<br>
 
-### Let's Connect!
+## Let's Connect!
 <p align = "center">
  <a href = "https://www.instagram.com/abraham_pn"><img src="https://img.icons8.com/doodle/48/000000/instagram.png"/></a>
  <a href = "https://www.linkedin.com/in/abrahamnaiborhu/"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a>
